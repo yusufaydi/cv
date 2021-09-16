@@ -20,6 +20,15 @@
     
 }
 
+/* hr */
+
+hr {
+    color: #fff;
+    margin: 0.75rem 300px;
+    border: 0.05rem solid #fff;
+    width: 100px;
+}
+
 /*   Colors   */
 
 .bg-dark-blue {
