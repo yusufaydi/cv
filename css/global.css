@@ -42,13 +42,13 @@
 }
 
 .btn-primary {
-    background: #336ea2;
+    background: #32414e;
 }
 
 .btn-primary:hover {
-    color: #336ea2;
+    color: #32414e;
     background: #fff;
-    border: 0.5px solid #336ea2;
+    border: 0.5px solid #32414e;
 }
 
 .btn-dark {
